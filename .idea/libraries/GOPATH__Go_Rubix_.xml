@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;Go-Rubix&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Go-sfr-invoice" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../labix.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../api-uptoo-jwt" />
+      <root url="file://$PROJECT_DIR$/../node-api-uptoo" />
+      <root url="file://$PROJECT_DIR$/../api-uptoo-jwt2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
